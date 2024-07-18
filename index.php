@@ -23,9 +23,9 @@
             <div class="user-box">
                 <input id="lastname" type="text" name="lastname" placeholder="Lastname.." required>
             </div>
-            <label for="$favourite_pet">Favourite Pet?</label>
+            <label for="favourite_pet">Favourite Pet?</label>
             <div class="">
-                <select id="$favourite_pet" name="$favourite_pet" required>
+                <select id="favourite_pet" name="favourite_pet" required>
                     <option value="none">None</option>
                     <option value="dog">Dog</option>
                     <option value="cat">Cat</option>
